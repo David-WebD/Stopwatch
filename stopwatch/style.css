@@ -1,0 +1,54 @@
+/*David-WebD, 03/11/2022*/
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+body {
+background:white;
+font-family:'arial';
+height:100%;
+}
+
+.container{
+  padding:4em 0em;
+  height: 100%;
+  width: 100%;
+}
+.wrapper {
+width: 100%;
+margin: 0 auto;
+color:black;
+text-align:center;
+}
+
+
+h1, h2, h3 {
+  font-family: 'Arial', sans-serif;
+  font-weight: 100;
+  font-size: 2.6em;
+  text-transform: uppercase;
+}
+
+#minutes, #seconds, #tens{
+  font-size:2em;
+}
+
+button{
+background: grey;
+color:black;
+border: solid 2px black;
+text-decoration:none;
+cursor:pointer;
+font-size:1.2em;
+padding:18px 10px;
+width:180px;
+margin: 10px;
+}
+
+
+
+
+
